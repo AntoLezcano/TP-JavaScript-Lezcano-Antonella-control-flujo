@@ -1,5 +1,5 @@
 //Triangulo de #. 
-let canNum = parseInt (prompt("NOSE YOOO"));
+let canNum = parseInt (prompt("Ingrese la cantidad de fila"));
 let filas = "";
 let i = 1;
 
